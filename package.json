@@ -1,5 +1,5 @@
 {
-  "name": "strapi-email-nodemailer-gmail",
+  "name": "strapi-provider-email-gmail",
   "version": "0.0.1",
   "description": "Nodemailer Gmail provider for strapi email",
   "homepage": "http://strapi.io",
